@@ -1,6 +1,10 @@
 ''' 
 Merge Sort is a divide and conquer algorithm that divides the input array into 2 halves, calls
 itself for the two halves, and then merges the two sorted halves.
+
+Step 1: Split array into halves
+
+Step 2: Merge sorted halves
 '''
 
 def merge_sort(array):
